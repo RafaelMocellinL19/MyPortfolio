@@ -161,6 +161,14 @@ body{
     color: #000000;
 }
 
+.informacoes-perfil .info .redes-sociais .cvweb{
+    background: #e3f706;
+    border-radius: 10px;
+    border: solid #000000;
+    color: #000000;
+}
+
+
 .informacoes-perfil .info .redes-sociais .linkedin{
     background: #1D87BD;
     border-radius:10px;
