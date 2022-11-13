@@ -230,6 +230,10 @@ body{
    
 }
 
+.deco{
+    border: dotted #E126D9 2px;
+    
+}
 
 .email{
     font-family: 'Courier New', Courier, monospace;
